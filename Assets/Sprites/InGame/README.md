@@ -1,0 +1,1 @@
+Any animated sprites must will be animated by a grid cut so make sure all frames line up to a grid.
