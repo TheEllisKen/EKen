@@ -1,0 +1,1 @@
+Try to group all UI sprites into atlases based on their usage.
